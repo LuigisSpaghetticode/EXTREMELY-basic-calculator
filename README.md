@@ -1,0 +1,3 @@
+# EXTREMELY-basic-calculator
+Can only perform addition. 20 lines of code.
+SORRY IF YOU CANT OPEN THE JAR FILE IM NEW TO JAVA AND THIS IS MY FIRST TIME EXPORTING A .JAR FILE SORRY!!!
